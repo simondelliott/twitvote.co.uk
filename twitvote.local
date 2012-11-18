@@ -1,0 +1,17 @@
+<VirtualHost VirtualHost *:80 >
+        ServerName twitvote.local
+        DocumentRoot /Users/simondelliott/work/twitvote.co.uk
+        CustomLog /Users/simondelliott/work/twitvote.co.uk/twitvote.log combined
+
+        <Directory /Users/simondelliott/work/twitvote.co.uk >
+                AllowOverride All
+                Order Deny,Allow
+                Allow from all
+		Options +Indexes
+        </Directory>
+</VirtualHost>
+
+
+
+
+
