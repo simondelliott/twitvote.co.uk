@@ -4,7 +4,6 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="keywords" content="twitvote twitter vote voting survey poll conference meeting presentation">
     <meta name="author" content="Creative Space Learning">
-    <meta name="google-site-verification" content="IieQsO2Fm8fzmZZk2fxhevFR4mrv0FsuCMY3p5u2Qrk" />
     <title>Welcome to twitvote.co.uk - home</title>
     <link rel="stylesheet" href="main.css" type="text/css" />
     <link rel="stylesheet" href="button.css" type="text/css" />
@@ -137,10 +136,4 @@
 
     <footer id="footer" style="clear:both;text-align:center;  margin-top:2em; float:bottom;  ">
     <p>&nbsp;</p>
-      <p style = "border-top:solid blue 1px;"> Copyright © Creative Space Learning</p>
-    </footer>
- 
-</div>
-
-</body>
-</html>
+      <p style = "border-top:solid blue 1px;"> Copyright 
