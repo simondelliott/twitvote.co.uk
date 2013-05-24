@@ -11,7 +11,7 @@
                 Allow from all
 		Options +Indexes
         </Directory>
-</VirtualHost
+</VirtualHost>
 
 
 
