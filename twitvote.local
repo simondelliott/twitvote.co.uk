@@ -1,3 +1,5 @@
+#this is a vhost file that can be included from your httpd.con file
+
 <VirtualHost VirtualHost *:80 >
         ServerName twitvote.local
         DocumentRoot /Users/simondelliott/work/twitvote.co.uk
@@ -9,8 +11,7 @@
                 Allow from all
 		Options +Indexes
         </Directory>
-</VirtualHost>
-
+</VirtualHost
 
 
 
