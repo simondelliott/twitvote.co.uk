@@ -7,6 +7,6 @@
 
 $dbh = "localhost";
 $dbu = "root";
-$dbp = "";
+$dbp = "SkaTrain";
 
 ?>

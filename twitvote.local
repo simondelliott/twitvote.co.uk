@@ -1,7 +1,8 @@
 #this is a vhost file that can be included from your httpd.con file
 
-<VirtualHost VirtualHost *:80 >
+<VirtualHost *:80 >
         ServerName twitvote.local
+	ServerAlias twitvote.local
         DocumentRoot /Users/simondelliott/work/twitvote.co.uk
         CustomLog /Users/simondelliott/work/twitvote.co.uk/twitvote.log combined
 
